@@ -10,6 +10,6 @@ This project focuses on predicting the risk of certain diseases, specifically ta
 
 ## Technologies Used
 - **Python**: Core programming language.
-Streamlit: Framework for building the web application.
-Machine Learning Models: Logistic Regression, Random Forest, SVM.
-Power BI: Used for exploratory data analysis (EDA).
+- **Streamlit**: Framework for building the web application.
+- **Machine Learning Models**: Logistic Regression, Random Forest, SVM.
+- **Power BI**: Used for exploratory data analysis (EDA).
