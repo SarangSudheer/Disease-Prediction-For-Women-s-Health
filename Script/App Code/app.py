@@ -1,6 +1,6 @@
 import streamlit as st
 from streamlit_option_menu import option_menu
-import Breast_Cancer,Heart_Failure,Diabeties,water_intake,caloric_intake
+import Breast_Cancer,Heart_Failure,Diabeties,Water_Intake,Caloric_Intake
 
 st.title("Disease Prediction and Health Recomendation System")
 with st.sidebar:
